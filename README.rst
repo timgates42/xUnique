@@ -28,7 +28,7 @@ What it does & How it works
 
 #. Replace all old UUIDs with the MD5 hex digest and also remove unused
    UUIDs that are not in the current node tree and UUIDs in wrong format
-#. Sort the project file inlcuding ``children``, ``files``,
+#. Sort the project file including ``children``, ``files``,
    ``PBXFileReference`` and ``PBXBuildFile`` list and remove all
    duplicated entries in these lists
 
